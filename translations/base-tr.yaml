@@ -99,9 +99,9 @@ mainMenu:
         title: Aktif Modlar
         warningPuzzleDLC: Modlarla Yapboz DLC'sini oynamak mümkün değil. Lütfen Yapboz
             DLC'sini oynayabilmek için bütün modları devre dışı bırakınız.
-    playingFullVersion: You are now playing the full version!
-    logout: Logout
-    noActiveSavegames: No active savegames found - Click play to start a new game!
+    playingFullVersion: Artık tam sürümü oynuyorsunuz!
+    logout: Çıkış
+    noActiveSavegames: Aktif oyun kaydı bulunamadı - Yeni oyuna başlamak için oyna tuşuna basın!
     playFullVersionV2: Bough shapez on Steam? Play the full version in your Browser!
     playFullVersionStandalone: You can now also play the full version in your Browser!
 dialogs:
@@ -311,7 +311,7 @@ dialogs:
             other browser tab or another computer with the same Steam
             account.<br><br> You can login again in the main menu.
     steamSsoNoOwnership:
-        title: Full Edition not owned
+        title: Tam sürüme sahip değilsiniz
         desc: In order to play the Full Edition in your Browser, you need to own both
             the base game and the Puzzle DLC on your Steam account.<br><br>
             Please make sure you own both, signed in with the correct Steam
@@ -1369,7 +1369,7 @@ mods:
         düğmesini de kullanabilirsiniz.
     noModSupport: Mod yükleyebilmek için tam sürümü çalıştırmalısınız.
     togglingComingSoon:
-        title: Yakında Gelecek
+        title: Yakında Geliyor!
         description: Modları etkinleştirmek veya devre dışı bırakmak şu anda yalnızca
             dosyaları Mod klasörüne kopyalayarak mümkündür. Ancak modları burada
             değiştirmek gelecekteki bir güncelleme için planlanmıştır!
